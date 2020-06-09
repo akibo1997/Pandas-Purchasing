@@ -1,0 +1,5 @@
+A few observations that I was able to notice:
+
+- People in the 20-24 age group account for the majority of purchases.
+- The user with the highest total purchases did not have the highest average purchase price.
+- The item with the highest amount sold also brought in the most revenue.
