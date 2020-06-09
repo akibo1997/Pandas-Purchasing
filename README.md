@@ -1,4 +1,4 @@
-Here you will find a full analysis of the video game purchases of people with pandas.
+Here you will find a full analysis of the video game purchases of people using pandas.
 
 
 Observations can be found in the analysis file, and the original csv can be found in the resources file
